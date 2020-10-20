@@ -23,3 +23,7 @@ $ yarn add @react-navigation/native
 ## Installing dependencies into an Expo
 
 $ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+## React Navigation Stack
+
+$ yarn add @react-navigation/stack
