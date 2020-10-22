@@ -24,6 +24,13 @@ $ yarn add @react-navigation/native
 
 $ expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
 
-## React Navigation Stack
+## Export Image Picker
+
+```
+$ expo install expo-image-picker
+```
+
+# React Navigation Stack
 
 $ yarn add @react-navigation/stack
+
